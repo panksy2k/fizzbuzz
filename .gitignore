@@ -1,0 +1,10 @@
+.idea/
+/fizzbuzz.iml
+/lib/
+/out/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
